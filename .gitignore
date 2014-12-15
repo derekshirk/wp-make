@@ -1,0 +1,85 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+intermediate
+.idea
+cache
+
+# WordPress
+license.txt
+readme.html
+wp-config.php
+wp-content/uploads
+.htaccess
+
+
+# Sitemaps
+sitemap.xml
+sitemap.xml.gz
+
+# Codekit
+.codekit-cache
+
+# Node.js with Express and Stlyus
+public/css/*.css
+public/css/main/*.css
+public/css/admin/*.css
+/.monitor
+
+# Eclipse
+/.project
+/.settings
+/.buildpath
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+.*.sw[a-z]
+*.un~i
+tags
+
+# nodejs npm modules
+/node_modules
+
+# sass
+*.sass-cache
+.sass-cache
+*.css.map
